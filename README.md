@@ -1,0 +1,1 @@
+pip install python-dotenv mss Pillow pytesseract google-generativeai httpx plyer
